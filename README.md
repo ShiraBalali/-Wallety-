@@ -29,17 +29,3 @@ This Android app, built for family financial management, is a testament to the p
 ![wallety screens (3)](https://github.com/shanibider/-Wallety-/assets/72359805/72e5ad1e-691d-4542-aed9-eb431e645c16)
 
 
-
-### 👉 Our screens:
-<p>
-  
-![Uploading 12.png…]()
-![11](https://github.com/shanibider/Readme-tests/assets/72359805/55c99e5e-edff-41b1-9a62-012a214632ac)
-![10](https://github.com/shanibider/Readme-tests/assets/72359805/aed2f932-9b44-4569-98b5-371b1ec9a509)
-![9](https://github.com/shanibider/Readme-tests/assets/72359805/56508ba2-d8be-4220-8676-e96c32dde16d)
-![8](https://github.com/shanibider/Readme-tests/assets/72359805/b37924ed-98f1-41a7-9625-0378b145f228)
-![7](https://github.com/shanibider/Readme-tests/assets/72359805/af928143-7192-401d-ae44-c56eb32bc58e)
-![6](https://github.com/shanibider/Readme-tests/assets/72359805/73748d7c-fac1-4582-859b-68d3a538b6a5)
-
-  
-</p>
